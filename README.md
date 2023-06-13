@@ -1,3 +1,3 @@
 # ISM-app
 A simple image search app built using vanilla HTML, CSS and JS
-[ISM-app] (follow this link to access site)
+follow this link to access the site [https://austinmonde.github.io/ISM-app/]
